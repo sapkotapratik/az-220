@@ -127,6 +127,7 @@
 
 
 
+
 ![image](https://user-images.githubusercontent.com/24469318/209904955-5c9eb049-eadd-4e2f-af30-3ebbe5a594b2.png)
 
 
@@ -136,3 +137,50 @@
 
 
 ![image](https://user-images.githubusercontent.com/24469318/209905313-bad3aaa1-4bd7-4e33-9e18-1a98cbf40fbd.png)
+
+
+![image](https://user-images.githubusercontent.com/24469318/209905474-30f3866c-3861-45e6-bea4-35bc54ed3f30.png)
+
+# Device Management
+
+## managing devices with twins
+
+![image](https://user-images.githubusercontent.com/24469318/209906942-156bc1d5-1f58-4479-9c24-a89cc1c01fa6.png)
+
+
+![image](https://user-images.githubusercontent.com/24469318/209906998-2762e069-50a9-40f3-af93-c380cb8ac4c6.png)
+
+
+![image](https://user-images.githubusercontent.com/24469318/209907018-f7510a07-19da-46af-a511-282d6a0ca087.png)
+
+
+![image](https://user-images.githubusercontent.com/24469318/209907056-16f96cff-54e6-470a-b88f-46efad3ca913.png)
+
+![image](https://user-images.githubusercontent.com/24469318/209907079-ec8e0e37-0587-4612-96e5-06eee7184ca1.png)
+
+
+
+![image](https://user-images.githubusercontent.com/24469318/209907095-8c90bf57-1d11-4bdf-80b7-b67b2bc0df89.png)
+
+
+
+![image](https://user-images.githubusercontent.com/24469318/209907128-b865e7ee-3ba7-463b-869d-a9e5241cbca0.png)
+
+Hub Capability - ServiceClient
+
+Device Capability - DeviceClient
+
+![image](https://user-images.githubusercontent.com/24469318/209907251-9e45db04-cab1-4048-a627-855bd2a5f2e1.png)
+
+
+![image](https://user-images.githubusercontent.com/24469318/209907297-a301df9f-4b09-474b-92d6-7ef7d22d3e20.png)
+
+
+
+![image](https://user-images.githubusercontent.com/24469318/209907348-1c17a734-4b89-47ac-9bd3-4ff75d9a3e9e.png)
+
+**Twin Class
+**
+
+![image](https://user-images.githubusercontent.com/24469318/209910310-dbc9deaa-43a6-4fd8-8fb9-8e5711507e9c.png)
+
